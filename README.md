@@ -1,5 +1,6 @@
 Flintstone
 ==========
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/adammbalogh/flintstone?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 [![Total Downloads](https://img.shields.io/packagist/dm/fire015/flintstone.svg)](https://packagist.org/packages/fire015/flintstone)
 [![Build Status](https://travis-ci.org/fire015/flintstone.svg?branch=master)](https://travis-ci.org/fire015/flintstone)
